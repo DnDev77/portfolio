@@ -103,7 +103,7 @@ const Projects = forwardRef<HTMLElement, ProjectsProps>(({ className = "" }, ref
       description: "Portfolio feito com Next.js, React, Tailwind, TypeScript e GraphQL.",
       longDescription: "Portfolio pessoal moderno e responsivo desenvolvido com as mais recentes tecnologias web. Design minimalista com animações suave.",
       tech: ["Next.js", "React", "Tailwind", "TypeScript"],
-      gitHub: "https://github.com/DnDev7/portfolio",
+      gitHub: "https://github.com/DnDev77/portfolio",
       status: "Concluído",
       features: []
     }
@@ -115,7 +115,7 @@ const Projects = forwardRef<HTMLElement, ProjectsProps>(({ className = "" }, ref
       description: "CDN para entrega de arquivos e imagens com suporte a cache e compressão.",
       longDescription: "CDN customizada construída do zero para otimizar a entrega de conteúdo estático, compressão automática baseada no tipo de arquivo.",
       tech: ["JavaScript"],
-      gitHub: "https://github.com/DnDev7/content-delivery-network",
+      gitHub: "https://github.com/DnDev77/content-delivery-network",
       status: "Concluído",
       features: [
         "Cache inteligente multi-camadas",
@@ -127,7 +127,7 @@ const Projects = forwardRef<HTMLElement, ProjectsProps>(({ className = "" }, ref
       description: "Autenticação e recuperação por e-mail.",
       longDescription: "Sistema de autenticação enterprise-grade construído com NestJS. ",
       tech: ["TypeScript", "TypeORM", "NestJS"],
-      gitHub: "https://github.com/DnDev7/auth-system",
+      gitHub: "https://github.com/DnDev77/auth-system",
       status: "Concluído",
       features: [
         "Múltiplos métodos de autenticação",
@@ -139,7 +139,7 @@ const Projects = forwardRef<HTMLElement, ProjectsProps>(({ className = "" }, ref
       description: "API feita em lua para FiveM, com uma estrutura de rotas & controllers, que gera estatísticas, retorna dados de usuários, etc.",
       longDescription: "Framework de API HTTP completo desenvolvido em Lua especificamente para servidores FiveM. Implementa padrão MVC com sistema de rotas expressivo, controllers organizados e middleware personalizável. Gera estatísticas em tempo real, endpoints para dados de usuários e integração com sistemas externos.",
       tech: ["Lua"],
-      gitHub: "https://github.com/DnDev7/http-api-server",
+      gitHub: "https://github.com/DnDev77/http-api-server",
       status: "Concluído",
       features: [
         "Sistema de rotas expressivo",
