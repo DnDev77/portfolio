@@ -18,7 +18,7 @@ interface ContactProps {
 const Contact = forwardRef<HTMLElement, ContactProps>(
     ({ className = "", isDark, toggleTheme }, ref) => {
         const socialLinks = [
-            { name: "GitHub", link: "https://github.com/DnDev7", icon: <Github size={20} /> },
+            { name: "GitHub", link: "https://github.com/DnDev77", icon: <Github size={20} /> },
             { name: "LinkedIn", link: "https://linkedin.com/in/dnzxdevop", icon: <Linkedin size={20} /> },
             { name: "Instagram", link: "https://instagram.com/dn.angelo_", icon: <Instagram size={20} /> },
             { name: "Email", link: "mailto:contato.dnzxdev@gmail.com", icon: <Mail size={20} /> },
