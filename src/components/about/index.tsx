@@ -51,7 +51,7 @@ const About = forwardRef<HTMLElement, AboutProps>(({ className = "" }, ref) => {
               <div className="h-full bg-gradient-to-br from-white/5 to-transparent rounded-xl flex items-center justify-center">
                 <div className="text-center space-y-4">
                   <div className="rounded-2xl overflow-hidden">
-                    <img src="https://avatars.githubusercontent.com/u/235958130" alt="Dn" />
+                    <img src="https://avatars.githubusercontent.com/u/236881250" alt="Dn" />
                   </div>
                 </div>
               </div>
