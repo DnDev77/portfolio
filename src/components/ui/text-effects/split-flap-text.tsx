@@ -15,7 +15,7 @@ const Ctx = createContext<AudioCtx | null>(null)
 const useAudio = () => useContext(Ctx)
 
 export function SplitFlapAudioProvider({ children }: { children: React.ReactNode }) {
-  const [muted, setMuted] = useState(false)
+  const [muted, setMuted] = useState(true)
   const ctxRef = useRef<AudioContext | null>(null)
 
   const getCtx = useCallback(() => {
@@ -108,7 +108,6 @@ function Inner({ text, className = "", speed = 50 }: SplitFlapTextProps) {
     <div
       className={`inline-flex gap-[0.08em] items-center cursor-pointer ${className}`}
       aria-label={text}
-      onMouseEnter={onEnter}
       style={{ perspective: "1000px" }}
     >
       {chars.map((char, i) => (
