@@ -1,0 +1,171 @@
+{
+  "hero": {
+    "name": "Daniel",
+    "role": "Desenvolvedor Fullstack",
+    "description": "Eu gosto de construir sistemas que realmente funcionam, não apenas telas bonitinhas que aparecem para o usuário.",
+    "cta": {
+      "primary": "Ver Projetos",
+      "secondary": "Stack",
+      "contact": "Contato"
+    },
+    "sideLabel": "DANIEL ANGELO | 2026",
+    "tagline": "Experiência Experimental"
+  },
+  "techs": {
+    "sectionLabel": "stack / ferramentas",
+    "title": "Tecnologias",
+    "subtitle": "Um conjunto curado de tecnologias que uso para construir produtos — da ideia à produção.",
+    "showMore": "ver mais — {count} restantes",
+    "showLess": "ver menos",
+    "levels": {
+      "core": "stack principal",
+      "proficient": "proficiente",
+      "familiar": "familiar"
+    }
+  },
+  "contact": {
+    "sectionLabel": "CONTATO",
+    "title": "VAMOS FALAR",
+    "subtitle": "Deixe uma mensagem — responderei por onde for melhor pra você.",
+    "agentStatus": "AGENTE // ONLINE",
+    "placeholder": "ESCREVA SUA MENSAGEM...",
+    "send": "CONFIRMAR →",
+    "hint": "ENTER PARA ENVIAR · SHIFT+ENTER PARA NOVA LINHA",
+    "initialMessage": "Olá — preencha os campos abaixo e eu recebo sua mensagem diretamente.",
+    "agentReply": "Entendido — anotei tudo e vou garantir que chegue ao lugar certo. Obrigado pelo contato!",
+    "steps": {
+      "contactMethodPrompt": "Como prefere ser contatado? (pode escolher mais de um)",
+      "contactDetailPrompt": "Qual é o seu {method}?",
+      "subjectPrompt": "Selecione o assunto",
+      "messagePrompt": "Pode escrever sua mensagem. Estou ouvindo.",
+      "done": "Mensagem enviada ✓",
+      "hint": "SELECIONE UMA OPÇÃO ACIMA"
+    },
+    "contactMethods": [
+      { "id": "whatsapp", "label": "WhatsApp", "icon": "◈", "placeholder": "+55 (11) 99999-9999" },
+      { "id": "email",    "label": "Email",    "icon": "◉", "placeholder": "seu@email.com" },
+      { "id": "discord",  "label": "Discord",  "icon": "◆", "placeholder": "usuario#0000 ou usuario" },
+      { "id": "other",    "label": "Outro",    "icon": "◇", "placeholder": "Como prefere ser contatado?" }
+    ],
+    "subjects": [
+      "Freelance / Projeto",
+      "Colaboração",
+      "Oportunidade de trabalho",
+      "Só quero dizer oi",
+      "Outro assunto"
+    ]
+  },
+  "work": {
+    "sectionLabel": "02 / Projetos",
+    "title": "TRABALHOS",
+    "subtitle": "Todos os projetos mostrados aqui foram feitos e projetados por mim.",
+    "modal": {
+      "close": "Fechar",
+      "github": "GitHub",
+      "viewProject": "Ver projeto"
+    },
+    "projects": {
+      "centralcity": {
+        "title": "Central City Website",
+        "medium": "Website completo",
+        "description": "Plataforma web em Next.js com Styled-Components, painel de usuário integrado e loja virtual para compra de benefícios e moedas virtuais."
+      },
+      "analytics": {
+        "title": "Analytics System",
+        "medium": "Sistema de captação de dados",
+        "description": "Sistema de analytics para monitorar retenção, engajamento, conversão, usuários ativos, picos de acesso e funil de drop-off."
+      },
+      "checkout": {
+        "title": "Sistema de checkout",
+        "medium": "Checkout in-game",
+        "description": "Sistema de checkout dentro da plataforma FiveM, onde jogadores fazem pagamentos diretamente dentro do jogo."
+      },
+      "musicapi": {
+        "title": "Music API REST",
+        "medium": "API REST de músicas",
+        "description": "API REST em Node.js para busca e obtenção de metadados de músicas utilizando a YouTube Data API v3."
+      },
+      "cdn": {
+        "title": "Basic CDN",
+        "medium": "Content Delivery Network",
+        "description": "Servidor simples para upload, gerenciamento e entrega de imagens com redimensionamento dinâmico."
+      },
+      "httpfivem": {
+        "title": "API HTTP para FiveM",
+        "medium": "Integração FiveM",
+        "description": "Sistema de API HTTP configurável para servidor FiveM com integração vRP."
+      },
+      "portfolio": {
+        "title": "Portifólio",
+        "medium": "",
+        "description": "Bom, você está vendo ele nesse exato momento!"
+      }
+    }
+  },
+  "dashboard": {
+    "title": "ACESSO",
+    "logout": "SAIR",
+    "loading": "carregando...",
+    "empty": "Nenhuma mensagem ainda",
+    "messages": "MENSAGENS",
+    "selectMessage": "SELECIONE UMA MENSAGEM",
+    "unreadSingular": "não lida",
+    "unreadPlural": "não lidas",
+    "markRead": "Marcar como lida",
+    "markUnread": "Marcar como não lida",
+    "delete": "Deletar",
+    "contactLabel": "CONTATO",
+    "messageLabel": "MENSAGEM",
+    "prev": "← PREV",
+    "next": "PRÓX →",
+    "auth": {
+      "required": "AUTENTICAÇÃO REQUERIDA",
+      "tokenInvalid": "TOKEN INVÁLIDO",
+      "tokenPlaceholder": "cole seu token aqui",
+      "tokenError": "✗ token inválido ou expirado",
+      "enter": "ENTRAR"
+    }
+  },
+  "principles": {
+    "sectionLabel": "03 / Princípios",
+    "title": "COMO TRABALHO?",
+    "items": [
+      {
+        "number": "01",
+        "titleParts": [
+          { "text": "PROBLEMA",         "highlight": true  },
+          { "text": " ANTES DA SOLUÇÃO", "highlight": false }
+        ],
+        "description": "Entender o problema antes de escrever qualquer linha. Meu código é consequência, não um ponto de partida.",
+        "align": "left"
+      },
+      {
+        "number": "02",
+        "titleParts": [
+          { "text": "ARQUITETURA", "highlight": true  },
+          { "text": " É DECISÃO",  "highlight": false }
+        ],
+        "description": "Cada escolha tem impacto futuro. Trabalho pensando em manutenção e longevidade.",
+        "align": "right"
+      },
+      {
+        "number": "03",
+        "titleParts": [
+          { "text": "SIMPLES",    "highlight": true  },
+          { "text": " NÃO É RUIM","highlight": false }
+        ],
+        "description": "Complexidade é só quando necessário. Nada de exibir meu codigo por aqui.",
+        "align": "left"
+      },
+      {
+        "number": "04",
+        "titleParts": [
+          { "text": "RESPONSABILIDADE", "highlight": true  },
+          { "text": " TÉCNICA",         "highlight": false }
+        ],
+        "description": "Segurança e estabilidade não são opcionais no meu trabalho. Qualidade é algo padrão, não um diferencial.",
+        "align": "right"
+      }
+    ]
+  }
+}

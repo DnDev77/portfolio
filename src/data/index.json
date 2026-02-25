@@ -1,0 +1,72 @@
+{
+  "techs": [
+    { "name": "TypeScript",    "icon": "https://cdn.simpleicons.org/typescript",       "level": "core" },
+    { "name": "Javascript",    "icon": "https://cdn.simpleicons.org/javascript",        "level": "core" },
+    { "name": "React",         "icon": "https://cdn.simpleicons.org/react",             "level": "core" },
+    { "name": "Next.js",       "icon": "https://cdn.simpleicons.org/nextdotjs",         "level": "core" },
+    { "name": "Express",       "icon": "https://cdn.simpleicons.org/express",           "level": "core" },
+    { "name": "Nest",          "icon": "https://cdn.simpleicons.org/nestjs",            "level": "core" },
+    { "name": "Tailwind",      "icon": "https://cdn.simpleicons.org/tailwindcss",       "level": "proficient" },
+    { "name": "CSS",           "icon": "https://cdn.simpleicons.org/css",               "level": "proficient" },
+    { "name": "Styled Comp.",  "icon": "https://cdn.simpleicons.org/styledcomponents",  "level": "proficient" },
+    { "name": "MySQL",         "icon": "https://cdn.simpleicons.org/mysql",             "level": "proficient" },
+    { "name": "Supabase",      "icon": "https://cdn.simpleicons.org/supabase",          "level": "proficient" },
+    { "name": "PostgreSQL",    "icon": "https://cdn.simpleicons.org/postgresql",        "level": "familiar" },
+    { "name": "GraphQL",       "icon": "https://cdn.simpleicons.org/graphql",           "level": "familiar" },
+    { "name": "Python",        "icon": "https://cdn.simpleicons.org/python",            "level": "proficient" },
+    { "name": "Lua",           "icon": "https://cdn.simpleicons.org/lua",               "level": "proficient" },
+    { "name": "PM2",           "icon": "https://cdn.simpleicons.org/pm2",               "level": "familiar" },
+    { "name": "Vercel",        "icon": "https://cdn.simpleicons.org/vercel",            "level": "familiar" },
+    { "name": "Nginx",         "icon": "https://cdn.simpleicons.org/nginx",             "level": "familiar" }
+  ],
+  "work": {
+    "items": [
+      {
+        "id": "centralcity",
+        "span": "col-span-2 row-span-2",
+        "image": "/projects/centralcity.png",
+        "url": "https://centralcity.gg",
+        "preview": true
+      },
+      {
+        "id": "analytics",
+        "span": "col-span-1 row-span-2",
+        "image": "/projects/analytics.png",
+        "preview": true
+      },
+      {
+        "id": "checkout",
+        "span": "col-span-1 row-span-1",
+        "image": "/projects/checkout.png",
+        "preview": true
+      },
+      {
+        "id": "musicapi",
+        "span": "col-span-1 row-span-1",
+        "image": "/projects/music.png",
+        "github": "https://github.com/DnDev77/api_music",
+        "viewCode": true
+      },
+      {
+        "id": "cdn",
+        "span": "col-span-1 row-span-1",
+        "image": "/projects/cdn.png",
+        "github": "https://github.com/DnDev77/content-delivery-network",
+        "viewCode": true
+      },
+      {
+        "id": "httpfivem",
+        "span": "col-span-2 row-span-1",
+        "image": "/projects/httpfivem.png",
+        "github": "https://github.com/DnDev77/http-api-server",
+        "viewCode": true
+      },
+        {
+        "id": "portfolio",
+        "span": "col-span-1 row-span-1",
+        "github": "https://github.com/DnDev77/portfolio",
+        "viewCode": true
+      }
+    ]
+  }
+}
