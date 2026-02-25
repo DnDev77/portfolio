@@ -35,7 +35,7 @@ const fontDisplay = Bebas_Neue({
 export const metadata: Metadata = {
   title: "Daniel Angelo — Developer",
   description:
-    "Interface studies in controlled environments. We design systems that behave, not just screens that display.",
+    "A Fullstack Developer",
   icons: {
     icon: [
       {
