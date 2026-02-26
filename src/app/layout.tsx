@@ -34,8 +34,25 @@ const fontDisplay = Bebas_Neue({
 
 export const metadata: Metadata = {
   title: "Daniel Angelo — Developer",
-  description:
-    "Desenvolvedor Fullstack especializado em aplicações performáticas, arquitetura sólida e experiências digitais bem construídas.",
+  description: "Desenvolvedor Fullstack especializado em aplicações performáticas, arquitetura sólida e experiências digitais bem construídas.",
+  siteName: "Dnzx Systems",
+  openGraph: {
+    title: "Daniel Angelo — Developer",
+    description:
+      "Desenvolvedor Fullstack especializado em aplicações performáticas.",
+    url: "https://dnzxsystems.site",
+    siteName: "Dnzx Systems",
+    images: [
+      {
+        url: "https://dnzxsystems.site/logo_default.png",
+        width: 600,
+        height: 600,
+        alt: "Daniel Angelo — Developer",
+      },
+    ],
+    locale: "pt_BR",
+    type: "website",
+  },
   icons: {
     icon: [
       {
