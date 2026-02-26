@@ -35,15 +35,15 @@ const fontDisplay = Bebas_Neue({
 export const metadata: Metadata = {
   title: "Daniel Angelo — Developer",
   description:
-    "A Fullstack Developer",
+    "Desenvolvedor Fullstack especializado em aplicações performáticas, arquitetura sólida e experiências digitais bem construídas.",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/icon.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/icon.png",
         media: "(prefers-color-scheme: dark)",
       },
       {
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
         type: "image/png",
       },
     ],
-    apple: "/apple-icon.png",
+    apple: "/icon.png",
   },
 };
 
