@@ -41,10 +41,12 @@ export const metadata: Metadata = {
       {
         url: "/icon.png",
         media: "(prefers-color-scheme: light)",
+        type: "image/png",
       },
       {
         url: "/icon.png",
         media: "(prefers-color-scheme: dark)",
+        type: "image/png",
       },
       {
         url: "/icon.png",
