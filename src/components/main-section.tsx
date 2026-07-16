@@ -104,7 +104,7 @@ export function HeroSection() {
               />
             </a>
             <a
-              href="/contact"
+              href="https://www.linkedin.com/in/dnzxdevop/"
               className="group inline-flex items-center gap-3 border border-foreground/20 px-5 py-3 md:px-6 font-mono text-[10px] md:text-xs uppercase tracking-widest text-foreground hover:border-accent hover:text-accent transition-all duration-200 w-full sm:w-auto justify-center sm:justify-start"
             >
               <ScrambleTextOnHover
