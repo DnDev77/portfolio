@@ -1,7 +1,6 @@
 {
   "name": "portfolio-dnzxdev",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "build": "next build",
     "dev": "next dev",
